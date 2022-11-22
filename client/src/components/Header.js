@@ -1,3 +1,4 @@
+//this is the header component i have understood 
 function Header({ spiceCount }) {
   return (
     <header>

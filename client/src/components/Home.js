@@ -1,6 +1,6 @@
 // part-1
 
-
+//this is the home component
 import { useState, useEffect } from "react";
 // import { Switch, Route } from "react-router-dom";
 import Header from "./Header";
