@@ -86,3 +86,4 @@ https://active-u-app.herokuapp.com/login
 ## license
 ​
 This project is not covered by any license and is open source
+# purity-project
